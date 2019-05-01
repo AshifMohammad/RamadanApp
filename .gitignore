@@ -1,0 +1,10 @@
+node_modules
+
+# Misc
+!demo.css
+*.tgz
+**/.DS_Store
+applications/*/build*
+*.pdf
+*.xlsx
+*.xml
